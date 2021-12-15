@@ -1,4 +1,5 @@
 "# Home-work-18" 
+https://lms.ithillel.ua/groups/610d1605f22caf7873870692/homeworks/61a5fc3e7da3714934e0bed9
 
 Необходимо реализвовать функцию astrologicalSign, которая может возвращать:
 
